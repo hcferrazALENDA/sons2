@@ -19,7 +19,7 @@ font-weight: bold;
     font-weight: bolder;
     letter-spacing: 3px;
 }
-.copy_right_footer{
+.copy_right_footer{ /*não alterou o "footer", pois ainda estava com "h" aqui, então corrigi*/
     position: fixed;
     color: lightgray;
     bottom: 0;
@@ -28,5 +28,5 @@ font-weight: bold;
     background-color: darkgrey;
     line-height: 3;
     text-align: center;
-    text-shadow: 5px 5px 5px rgb(155, 148, 148) ;
+    text-shadow: 5px 5px 5px rgb(218, 213, 213) ; /*troquei o tom de cinza, pois não estava contrastando e o efeito não aparecia antes*/
 }
