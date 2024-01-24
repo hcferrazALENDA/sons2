@@ -1,0 +1,5 @@
+fundo
+palmas
+apito
+dedo
+https://teachablemachine.withgoogle.com/models/ieuEvvcOM/
