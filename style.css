@@ -14,7 +14,7 @@ font-size: 12px;
 font-weight: bold;
 }
 .main_div button{
-    font-family: 'roboto',sans-serif;
+    font-family: 'Roboto',sans-serif; /*Roboto estava com "r" minúsculo*/
     margin-top: 30px;
     font-weight: bolder;
     letter-spacing: 3px;
@@ -28,5 +28,5 @@ font-weight: bold;
     background-color: darkgrey;
     line-height: 3;
     text-align: center;
-text-shadow: 5px 5px 5px rgb(155, 148, 148) ;
+    text-shadow: 5px 5px 5px rgb(155, 148, 148) ;
 }
